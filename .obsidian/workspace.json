@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "910dd115f97cb582",
+    "type": "split",
+    "children": [
+      {
+        "id": "69010cd562333cc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a990b5a79b8064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guia de comandos/00 - Guia de Comandos Linux WSL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - Guia de Comandos Linux WSL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44f1703155e55fe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "293710ac024b4891",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0cba1be0b94ada3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "3b9abff11600c342",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "70ad8b0613919b7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebd572d5673b2732",
+    "type": "split",
+    "children": [
+      {
+        "id": "452cd0f2b88f90cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09c4623bfe5f48fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "90a781e7e18edfd3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "bdb3d037b732bf5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "86f4e2501c9f2dc9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "a50e2ee9dcc71d6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "c6a990b5a79b8064",
+  "lastOpenFiles": [
+    "README.md",
+    "Guia de comandos/01 - Iniciar WSL.md",
+    "Guia de comandos/00 - Guia de Comandos Linux WSL.md",
+    "Guia de comandos/02 - Navegación.md",
+    "Guia de comandos/03 - Crear y Eliminar.md",
+    "Guia de comandos/05 - Editar Archivos.md",
+    "Guia de comandos/12 - Atajos de Terminal.md",
+    "Guia de comandos/10 - Git.md",
+    "Guia de comandos/11 - Docker.md",
+    "Guia de comandos/08 - Red.md",
+    "Guia de comandos/04 - Copiar y Mover.md",
+    "Guia de comandos/09 - Búsqueda.md",
+    "Guia de comandos/07 - Procesos.md",
+    "Guia de comandos/13 - Combinar con Windows.md",
+    "Comandos Linux WSL.md",
+    "Guia de comandos/06 - Permisos.md",
+    "Guia de comandos",
+    "Sin título.canvas",
+    "2026-09-16.md",
+    "Bienvenido.md",
+    "comandos.txt",
+    "Sin nombre"
+  ]
+}
