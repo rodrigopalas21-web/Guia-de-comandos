@@ -1,2 +1,2 @@
 ﻿# Guia-de-comandos
-rodrigo palacios
+rodrigo
