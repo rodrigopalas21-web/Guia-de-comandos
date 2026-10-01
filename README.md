@@ -1,2 +1,2 @@
 ﻿# Guia-de-comandos
-guia creada por rodrigo
+guia creada por rodrigo palacios
